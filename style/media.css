@@ -106,4 +106,9 @@
     height: 18rem;
     object-fit: contain;
     }   
+     .product-title h3 {
+        line-height: 37px;
+        font-size: 25px;
+        height: 11rem;
+    }
 }
